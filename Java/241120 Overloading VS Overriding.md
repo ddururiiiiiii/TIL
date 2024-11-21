@@ -15,7 +15,7 @@
 
 ### 코드 예시
 
-```
+```java
 public class Calculator {
     public int add(int a, int b) {
         return a + b;
@@ -37,7 +37,7 @@ public class Calculator {
 
 ### 코드 예시
 
-```
+```java
   class Animal {
     public void sound() {
         System.out.println("동물의 소리");
