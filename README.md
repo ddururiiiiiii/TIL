@@ -19,6 +19,7 @@
 - 📌 [인터페이스 추상클래스 (default, static 메서드)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241126%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%20%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 - 📌 [예외(Exception)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241127%20%EC%98%88%EC%99%B8.md)
 - 📌 [Java8의 변화](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241128%20Java8%EC%9D%98%20%EB%B3%80%ED%99%94.md)
+- 📌 [Call by Value, Call by Reference](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241129%20Call%20by%20Value%20VS%20Call%20by%20Reference.md)
 ----
 
 
