@@ -20,6 +20,7 @@
 - 📌 [예외(Exception)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241127%20%EC%98%88%EC%99%B8.md)
 - 📌 [Java8의 변화](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241128%20Java8%EC%9D%98%20%EB%B3%80%ED%99%94.md)
 - 📌 [Call by Value, Call by Reference](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241129%20Call%20by%20Value%20VS%20Call%20by%20Reference.md)
+- [변수](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241202%20%EB%B3%80%EC%88%98.md)
 ----
 
 
