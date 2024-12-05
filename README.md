@@ -24,6 +24,7 @@
 - 📌 [Loop VS Stream](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241203%20Loop%20VS%20Stream.md)
 - 📌 [익명클래스 그리고 람다, 스트림](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241204%20%EC%9D%B5%EB%AA%85%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%9E%8C%EB%8B%A4%2C%20%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
 - 📌 [Collections](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241205%20Collections.md)
+- [접근제어자](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241206%20%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 ----
 
 
