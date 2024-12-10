@@ -27,6 +27,7 @@
 - [접근제어자](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241206%20%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 - [static 키워드](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241209%20static%20(%EB%B8%94%EB%A1%9D%2C%20%EB%A9%94%EC%84%9C%EB%93%9C%2C%20%EB%B3%80%EC%88%98).md)
 - [final 키워드](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241210%20final%20(%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EB%A9%94%EC%86%8C%EB%93%9C%2C%20%EB%B3%80%EC%88%98).md)
+- [상속](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241211%20%EC%83%81%EC%86%8D.md)
   
 ----
 
