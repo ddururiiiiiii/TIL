@@ -30,7 +30,7 @@
 - [상속](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241211%20%EC%83%81%EC%86%8D.md)
 - [super, this](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241212%20super()%20this.md)
 - 📌 [Reflection](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241213%20Reflection.md)
-  
+- 📌 [Comparable VS Comparator](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241216%20Comparable%20VS%20Comparator.md)
 ----
 
 
