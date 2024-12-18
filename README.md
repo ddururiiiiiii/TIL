@@ -31,8 +31,10 @@
 - [super, this](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241212%20super()%20this.md)
 - 📌 [Reflection](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241213%20Reflection.md)
 - 📌 [Comparable VS Comparator](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241216%20Comparable%20VS%20Comparator.md)
-- [GC](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241217%20GC.md)
-- [JVM](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241218%20JVM.md)
+- 📌 [GC](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241217%20GC.md)
+- 📌 [JVM](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241218%20JVM.md)
+- 📌 [제네릭(Generic)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241219%20%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
+  
 ----
 
 
