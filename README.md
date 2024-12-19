@@ -34,7 +34,9 @@
 - 📌 [GC](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241217%20GC.md)
 - 📌 [JVM](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241218%20JVM.md)
 - 📌 [제네릭(Generic)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241219%20%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
+- [초기화, 생성자, 패키지, import, annotation](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241220%20%EC%B4%88%EA%B8%B0%ED%99%94%2C%20%EC%83%9D%EC%84%B1%EC%9E%90%2C%20%ED%8C%A8%ED%82%A4%EC%A7%80%2C%20import%2C%20annotation.md)
   
 ----
+
 
 
