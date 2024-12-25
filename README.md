@@ -37,6 +37,8 @@
 - [초기화, 생성자, 패키지, import, annotation](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241220%20%EC%B4%88%EA%B8%B0%ED%99%94%2C%20%EC%83%9D%EC%84%B1%EC%9E%90%2C%20%ED%8C%A8%ED%82%A4%EC%A7%80%2C%20import%2C%20annotation.md)
 - [인코딩](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241223%20%EC%9D%B8%EC%BD%94%EB%94%A9%20(ASCII%EC%BD%94%EB%93%9C%2C%20%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C).md)
 - [enum](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241224%20enum.md)
+- [Process VS Thread](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241226%20Process%20VS%20Thread.md)
+
 ----
 
 
