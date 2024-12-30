@@ -38,7 +38,7 @@
 - [인코딩](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241223%20%EC%9D%B8%EC%BD%94%EB%94%A9%20(ASCII%EC%BD%94%EB%93%9C%2C%20%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C).md)
 - [enum](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241224%20enum.md)
 - [Process VS Thread](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241226%20Process%20VS%20Thread.md)
-
+- 📌 [Thread](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241227%20Thread.md)
 ----
 
 
