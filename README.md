@@ -49,7 +49,10 @@
 - [목 오브젝트](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250103%20%EB%AA%A9%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md)
 - 📌 [AOP](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250106%20AOP.md)
 - 📌 [Proxy](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250107%20Proxy.md)
+- 📌 [@Transcational](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250108%20%40Transactional.md)
+
 ----
+
 
 
 
