@@ -51,6 +51,7 @@
 - 📌 [Proxy](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250107%20Proxy.md)
 - 📌 [@Transcational](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250108%20%40Transactional.md)
 - 📌 [AOP VS Filter VS INterceptor](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250109%20AOP%20VS%20%ED%95%84%ED%84%B0%20VS%20%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0.md)
+- 📌 [빈 생명주기](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250110%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
 
 ----
 
