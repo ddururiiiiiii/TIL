@@ -55,6 +55,7 @@
 
 ----
 
-
-
+### Linux
+- [프로그램, 프로세스, 커널, 시스템 콜, 라이브러리](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250113%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%2C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%BB%A4%EB%84%90%2C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C%2C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
+- [프로그렘 관리](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250114%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B4%80%EB%A6%AC.md)
 
