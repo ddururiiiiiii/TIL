@@ -52,11 +52,14 @@
 - 📌 [@Transcational](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250108%20%40Transactional.md)
 - 📌 [AOP VS Filter VS INterceptor](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250109%20AOP%20VS%20%ED%95%84%ED%84%B0%20VS%20%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0.md)
 - 📌 [빈 생명주기](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250110%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
+- 📌 [빈 스코프](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250120%20%EB%B9%88%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - 📌 [@requestParam VS @ReqeustBody](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250116%20%40RequestBody%2C%20%40RequestParam%2C%20%40ModelAttribute.md)
+
 
 ----
 
 ### Linux
 - [프로그램, 프로세스, 커널, 시스템 콜, 라이브러리](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250113%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%2C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%BB%A4%EB%84%90%2C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%BD%9C%2C%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
 - [프로그렘 관리](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250114%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B4%80%EB%A6%AC.md)
-
+- [메모리 관리 시스템](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250117%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+- [장치접근](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250120%20%EC%9E%A5%EC%B9%98%EC%A0%91%EA%B7%BC.md)
