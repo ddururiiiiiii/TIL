@@ -70,3 +70,8 @@
 - [메모리 관리 시스템](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250117%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
 - [장치접근](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250120%20%EC%9E%A5%EC%B9%98%EC%A0%91%EA%B7%BC.md)
 - [파일시스템](https://github.com/ddururiiiiiii/TIL/blob/main/Linux/250121%20%ED%8C%8C%EC%9D%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+
+----
+
+### CS
+- [웹브라우저 요청 흐름](https://github.com/ddururiiiiiii/TIL/blob/main/CS%20(HTTP%20%EB%93%B1)/250131%20%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9A%94%EC%B2%AD%20%ED%9D%90%EB%A6%84.md)
