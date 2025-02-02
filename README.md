@@ -74,4 +74,9 @@
 ----
 
 ### CS
-- [웹브라우저 요청 흐름](https://github.com/ddururiiiiiii/TIL/blob/main/CS%20(HTTP%20%EB%93%B1)/250131%20%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9A%94%EC%B2%AD%20%ED%9D%90%EB%A6%84.md)
+- 📌 [웹브라우저 요청 흐름](https://github.com/ddururiiiiiii/TIL/blob/main/CS%20(HTTP%20%EB%93%B1)/250131%20%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9A%94%EC%B2%AD%20%ED%9D%90%EB%A6%84.md)
+
+----
+
+### 데이터베이스
+- 📌 [ACID](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250203%20ACID.md)
