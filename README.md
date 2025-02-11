@@ -84,3 +84,6 @@
 - 📌 [삽입, 삭제, 갱신 이상](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250205%20%EC%82%BD%EC%9E%85%2C%20%EA%B0%B1%EC%8B%A0%2C%20%EC%82%AD%EC%A0%9C%20%EC%9D%B4%EC%83%81.md)
 - 📌 [SQL Injection](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250206%20SQL%20Injection.md)
 - 📌 [RDBMS VS NoSQL](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250207%20RDBMS%20VS%20NoSQL.md)
+- 📌 [공유락 VS 베타락](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250210%20%EA%B3%B5%EC%9C%A0%EB%9D%BD%20VS%20%EB%B2%A0%ED%83%80%EB%9D%BD.md)
+- 📌 [옵티마이져](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250211%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%B8.md)
+- 📌 [CAP이론 VS PACELC 이론](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250212%20CAP%EC%9D%B4%EB%A1%A0%20VS%20PACELC%20%EC%9D%B4%EB%A1%A0.md)
