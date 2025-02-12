@@ -87,3 +87,4 @@
 - 📌 [공유락 VS 베타락](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250210%20%EA%B3%B5%EC%9C%A0%EB%9D%BD%20VS%20%EB%B2%A0%ED%83%80%EB%9D%BD.md)
 - 📌 [옵티마이져](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250211%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%B8.md)
 - 📌 [CAP이론 VS PACELC 이론](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250212%20CAP%EC%9D%B4%EB%A1%A0%20VS%20PACELC%20%EC%9D%B4%EB%A1%A0.md)
+- 📌 [DELECT VS TRUNCATE VS DROP](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250213%20DELETE%20vs%20TRUNCATE%20vs%20DROP.md)
