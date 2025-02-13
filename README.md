@@ -88,3 +88,4 @@
 - 📌 [옵티마이져](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250211%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%B8.md)
 - 📌 [CAP이론 VS PACELC 이론](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250212%20CAP%EC%9D%B4%EB%A1%A0%20VS%20PACELC%20%EC%9D%B4%EB%A1%A0.md)
 - 📌 [DELECT VS TRUNCATE VS DROP](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250213%20DELETE%20vs%20TRUNCATE%20vs%20DROP.md)
+- 📌 [클러스터링](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250214%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.md)
