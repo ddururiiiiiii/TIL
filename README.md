@@ -98,3 +98,4 @@
 - 📌 [옵티마이저 힌트, 인덱스 힌트](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250226%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%20%ED%9E%8C%ED%8A%B8%20VS%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%ED%9E%8C%ED%8A%B8.md)
 - 📌 [CHAR vs VARCHAR](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250227%20CHAR%20VS%20VARCHAR.md)
 - 📌 [BLOB vs TEXT vs CLOB](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250228%20BLOB%20VS%20TEXT%20VS%20CLOB.md)
+- 📌 [B-Tree VS B+Tree](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250304%20B-Tree%20VS%20B%2BTree.md)
