@@ -75,6 +75,16 @@
 
 ### CS
 - 📌 [웹브라우저 요청 흐름](https://github.com/ddururiiiiiii/TIL/blob/main/CS%20(HTTP%20%EB%93%B1)/250131%20%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9A%94%EC%B2%AD%20%ED%9D%90%EB%A6%84.md)
+- 📌 [oAuth, 토큰(Token), JWT](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250305%20oAuth%2C%20%ED%86%A0%ED%81%B0(Token)%2C%20JWT.md)
+- 📌 [OSI 7계층](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250305%20OSI%207%EA%B3%84%EC%B8%B5.md)
+- 📌 [REST, RESTful](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250306%20REST%2C%20RESTful.md)
+- 📌 [버전별 HTTP 그 외의 프로토콜](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250307%20%EB%B2%84%EC%A0%84%EB%B3%84%20HTTP%20%EA%B7%B8%20%EC%99%B8%EC%9D%98%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C.md)
+- 📌 [웹 서버(Web Server) vs WAS(Web Application Server)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250310%20%08%EC%9B%B9%20%EC%84%9C%EB%B2%84(Web%20Server)%20vs%20WAS(Web%20Application%20Server).md)
+- 📌 [보안 취약점과 방어 기법](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250312%20%EB%B3%B4%EC%95%88%20%EC%B7%A8%EC%95%BD%EC%A0%90%EA%B3%BC%20%EB%B0%A9%EC%96%B4%20%EA%B8%B0%EB%B2%95.md)
+- 📌 [세마포어(Semaphore) vs 뮤텍스(Mutex)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250313%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore)%20vs%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex).md)
+- 📌 [소켓통신](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250319%20%EC%86%8C%EC%BC%93%ED%86%B5%EC%8B%A0.md)
+- 📌 [URI vs URL vs URN](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250319%20URI%20vs%20URL%20vs%20URN.md)
+
 
 ----
 
