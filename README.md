@@ -11,19 +11,19 @@
 <br>
 
 ### Java
-- 📌 [객체지향, 절차지향, SOLID원칙, 클래스, 인스턴스, 객체 등](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241119%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%2C%20%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%2C%20SOLID%EC%9B%90%EC%B9%99%2C%20%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%2C%20%EA%B0%9D%EC%B2%B4%20%EB%93%B1.md)
+- 📌✅ [객체지향, 절차지향, SOLID원칙, 클래스, 인스턴스, 객체 등](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241119%20%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%2C%20%EC%A0%88%EC%B0%A8%EC%A7%80%ED%96%A5%2C%20SOLID%EC%9B%90%EC%B9%99%2C%20%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%2C%20%EA%B0%9D%EC%B2%B4%20%EB%93%B1.md)
 - [자료형 (기본자료형, 참조자료형, 형변환)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241121%20%EC%9E%90%EB%A3%8C%ED%98%95.md)
-- [Overloading, Overriding (오버로딩, 오버라이딩)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241120%20Overloading%20VS%20Overriding.md)
+- ✅[Overloading, Overriding (오버로딩, 오버라이딩)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241120%20Overloading%20VS%20Overriding.md)
 - [equals() VS ==](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241122%20equals()%20VS%20%3D%3D%20.md)
 - [Overflow, Underfow](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241125%20Overflow%20VS%20Underflow.md)
 - 📌 [인터페이스와 추상클래스 (Marker 인터페이스, Default 메서드, static 메서드)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241126%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80%20%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4%20(Marker%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%2C%20Default%20%EB%A9%94%EC%84%9C%EB%93%9C%2C%20static%20%EB%A9%94%EC%84%9C%EB%93%9C).md)
-- 📌 [예외(Exception)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241127%20%EC%98%88%EC%99%B8%20(Exception).md)
-- 📌 [Java8의 변화](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241128%20Java8%EC%9D%98%20%EB%B3%80%ED%99%94.md)
-- 📌 [Call by Value, Call by Reference](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241129%20Call%20by%20Value%20VS%20Call%20by%20Reference.md)
+- 📌✅ [예외(Exception)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241127%20%EC%98%88%EC%99%B8%20(Exception).md)
+- 📌✅ [Java8의 변화](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241128%20Java8%EC%9D%98%20%EB%B3%80%ED%99%94.md)
+- 📌✅ [Call by Value, Call by Reference](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241129%20Call%20by%20Value%20VS%20Call%20by%20Reference.md)
 - [변수](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241202%20%EB%B3%80%EC%88%98.md)
 - 📌 [Loop VS Stream](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241203%20Loop%20VS%20Stream.md)
 - 📌 [익명클래스 그리고 람다, 스트림 API](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241204%20%EC%9D%B5%EB%AA%85%ED%81%B4%EB%9E%98%EC%8A%A4%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%9E%8C%EB%8B%A4%2C%20%EC%8A%A4%ED%8A%B8%EB%A6%BC%20API.md)
-- 📌 [Collections](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241205%20Collections.md)
+- 📌✅ [Collections](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241205%20Collections.md)
 - [접근제어자](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241206%20%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
 - [static 키워드](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241209%20static%20(%EB%B8%94%EB%A1%9D%2C%20%EB%A9%94%EC%84%9C%EB%93%9C%2C%20%EB%B3%80%EC%88%98).md)
 - [final 키워드](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241210%20final%20(%ED%81%B4%EB%9E%98%EC%8A%A4%2C%20%EB%A9%94%EC%86%8C%EB%93%9C%2C%20%EB%B3%80%EC%88%98).md)
@@ -32,7 +32,7 @@
 - 📌 [Reflection](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241213%20Reflection.md)
 - 📌 [Comparable VS Comparator](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241216%20Comparable%20VS%20Comparator.md)
 - 📌 [GC](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241217%20GC.md)
-- 📌 [JVM](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241218%20JVM.md)
+- 📌✅ [JVM](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241218%20JVM.md)
 - 📌 [제네릭(Generic)](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241219%20%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
 - [초기화, 생성자, 패키지, import, annotation](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241220%20%EC%B4%88%EA%B8%B0%ED%99%94%2C%20%EC%83%9D%EC%84%B1%EC%9E%90%2C%20%ED%8C%A8%ED%82%A4%EC%A7%80%2C%20import%2C%20annotation.md)
 - [인코딩](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241223%20%EC%9D%B8%EC%BD%94%EB%94%A9%20(ASCII%EC%BD%94%EB%93%9C%2C%20%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C).md)
@@ -49,7 +49,7 @@
 - [목 오브젝트](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250103%20%EB%AA%A9%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md)
 - 📌 [AOP](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250106%20AOP.md)
 - 📌 [Proxy](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250107%20Proxy.md)
-- 📌 [@Transcational](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250108%20%40Transactional.md)
+- 📌✅ [@Transcational](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250108%20%40Transactional.md)
 - 📌 [AOP VS Filter VS INterceptor](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250109%20AOP%20VS%20%ED%95%84%ED%84%B0%20VS%20%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0.md)
 - 📌 [빈 생명주기](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250110%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
 - 📌 [빈 스코프](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250120%20%EB%B9%88%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
@@ -57,9 +57,9 @@
 
 ### JPA
 - 📌 [JPA, Hibernate](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250122%20JPA%2C%20Hibernate.md)
-- 📌 [Entity, EntitiyManager, EntityManager, EntityManagerFacory, 생명주기](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250123%20Entity%2C%20EntityManager%2C%20EntityManagerFactory%2C%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
-- 📌 [영속성 컨택스트 (1차캐시, 2차캐시, Dirty Checking)](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250124%20%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%83%9D%EC%8A%A4%ED%8A%B8%20(1%EC%B0%A8%EC%BA%90%EC%8B%9C%2C%202%EC%B0%A8%EC%BA%90%EC%8B%9C%2C%20Dirty%20Checking).md)
-- 📌 [cascade, orphanRemoval, 연관관계(문제점), Open Session in View](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250221%20cascade%2C%20orphanRemoval%2C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84(%EB%AC%B8%EC%A0%9C%EC%A0%90)%2C%20Open%20Session%20in%20View.md)
+- 📌✅ [Entity, EntitiyManager, EntityManager, EntityManagerFacory, 생명주기](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250123%20Entity%2C%20EntityManager%2C%20EntityManagerFactory%2C%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
+- 📌✅ [영속성 컨택스트 (1차캐시, 2차캐시, Dirty Checking)](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250124%20%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%83%9D%EC%8A%A4%ED%8A%B8%20(1%EC%B0%A8%EC%BA%90%EC%8B%9C%2C%202%EC%B0%A8%EC%BA%90%EC%8B%9C%2C%20Dirty%20Checking).md)
+- 📌✅ [cascade, orphanRemoval, 연관관계(문제점), Open Session in View](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250221%20cascade%2C%20orphanRemoval%2C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84(%EB%AC%B8%EC%A0%9C%EC%A0%90)%2C%20Open%20Session%20in%20View.md)
 
 ----
 
@@ -89,7 +89,7 @@
 ----
 
 ### 데이터베이스
-- 📌 [ACID](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250203%20ACID.md)
+- 📌✅ [ACID](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250203%20ACID.md)
 - 📌 [정규화](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250204%20%EC%A0%95%EA%B7%9C%ED%99%94.md)
 - 📌 [이상현상 (삽입,갱신,삭제)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250205%20%EC%82%BD%EC%9E%85%2C%20%EA%B0%B1%EC%8B%A0%2C%20%EC%82%AD%EC%A0%9C%20%EC%9D%B4%EC%83%81.md)
 - 📌 [SQL Injection](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250206%20SQL%20Injection.md)
