@@ -91,7 +91,7 @@
 ### 데이터베이스
 - 📌✅ [ACID](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250203%20ACID.md)
 - 📌 [정규화](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250204%20%EC%A0%95%EA%B7%9C%ED%99%94.md)
-- 📌 [이상현상 (삽입,갱신,삭제)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250205%20%EC%82%BD%EC%9E%85%2C%20%EA%B0%B1%EC%8B%A0%2C%20%EC%82%AD%EC%A0%9C%20%EC%9D%B4%EC%83%81.md)
+- 📌 [이상현상 (삽입,갱신,삭제)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250205%20%EC%9D%B4%EC%83%81%ED%98%84%EC%83%81%20(%EC%82%BD%EC%9E%85%2C%EA%B0%B1%EC%8B%A0%2C%EC%82%AD%EC%A0%9C).md)
 - 📌 [SQL Injection](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250206%20SQL%20Injection.md)
 - 📌 [RDBMS VS NoSQL](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250207%20RDBMS%20VS%20NoSQL.md)
 - 📌 [공유락(Shared Lock) VS 베타락(Exclusive Lock)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250210%20%EA%B3%B5%EC%9C%A0%EB%9D%BD%20VS%20%EB%B2%A0%ED%83%80%EB%9D%BD.md)
