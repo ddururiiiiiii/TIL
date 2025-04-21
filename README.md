@@ -100,7 +100,7 @@
 - 📌 [DELECT VS TRUNCATE VS DROP](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250213%20DELETE%20vs%20TRUNCATE%20vs%20DROP.md)
 - 📌 [클러스터링(Clustering)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250214%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.md)
 - 📌 [INNER JOIN vs OUTER JOIN](http://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250217%20INNER%20JOIN%20vs%20OUTER%20JOIN.md)
-- 📌 [플리케이션(Replication)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250218%20%EB%A6%AC%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.md)
+- 📌 [리플리케이션(Replication)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250218%20%EB%A6%AC%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98.md)
 - 📌 [트리거(Trigger)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250219%20%ED%8A%B8%EB%A6%AC%EA%B1%B0.md)
 - 📌 [파티셔닝 (Partitioning) vs 샤딩 (Sharding)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250220%20%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9D%20(Partitioning)%EA%B3%BC%20%EC%83%A4%EB%94%A9%20(Sharding).md)
 - 📌 [Oracle vs MySQL](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250224%20Oracle%20vs%20MySQL.md)
