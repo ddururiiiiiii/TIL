@@ -9,7 +9,7 @@
 - 예: mailto:user@example.com (이메일 주소도 URI)
 
 # URN (Uniform Resource Name)
-- 리소스를 이름만으로 식별 (위치 정보 없음).
+- 리소스를 이름만으로 식별 (위치 정보 없음), 자원의 위치가 변하더라도 동일한 식별자를 유지함.
 - 예: urn:isbn:978-3-16-148410-0 (책 ISBN)
 
 URI, URN이 URI안 안에 포함되는 개념
