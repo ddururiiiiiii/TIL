@@ -286,3 +286,36 @@ spring:
   jpa:
     open-in-view: false
 ```
+
+<br>
+
+----
+
+<br>
+
+# @OneToOne 연관관계에서 Lazy Loading을 설정할 때 주의할 점
+- 자바 ORM (JPA)에서는 기본적으로 OneToOne은 EAGER이다 (즉시로딩) → 엔티티를 조회하면 연관된 것도 무조건 같이 가져와버림.
+- @OneToOne(fetch = FetchType.LAZY) 이렇게 작성하면 LAZY로딩이 되지만...!
+
+### 진짜로 LAZY가 안될 수 있음
+- @OneToOne은 기본적으로 프록시를 써서 지연 로딩하려고 함
+- 근데 프록시 객체가 제대로 동작하려면 해당 연관 필드가 접근될 때까지 초기화가 안 돼 있어야 함.
+- 그런데 실무에서는 보통 OneToOne 대상 필드가 null 검사되는 순간 프록시가 터져버림
+~~~ java
+if (user.getProfile() != null) { ... } // 이 순간 프록시 초기화되어버림!
+~~~
+
+- JPA 구현체에 따라 (Hibernate 기준) 실제로는 OneToOne + LAZY는 프록시 대신 즉시 로딩이 될 수도 있음 (JPA 스펙 구멍임)
+- 그래서 bytecode enhancement 또는 @LazyToOne(LazyToOneOption.NO_PROXY) 같은 걸 써야 진짜 지연로딩이 되기도 함
+
+### 정리
+| 주의할 점                     | 설명                                                     |
+| ------------------------- | ------------------------------------------------------ |
+| 기본은 EAGER                 | `@OneToOne`은 기본으로 즉시 로딩이라 성능에 악영향 가능                   |
+| LAZY 설정해도 제대로 동작 안 할 수 있음 | 프록시가 강제로 초기화되거나, Hibernate가 내부적으로 EAGER로 처리하는 경우도 있음   |
+| `null` 검사만 해도 로딩 발생       | `getProfile() != null` 해버리면 이미 DB 접근함                  |
+| 진짜로 LAZY 원하면 추가 설정 필요     | `@LazyToOne`, `bytecode enhancer`, `@MapsId` 같은 걸 써야 함 |
+
+
+- @OneToOne(fetch = LAZY)는 진짜 지연 로딩이 안 될 수 있으니 무조건 믿지 마라!
+- 성능 민감한 코드에서는 꼭 로깅 찍어보거나 Hibernate 설정도 확인해봐야 함!
