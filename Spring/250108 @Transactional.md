@@ -326,6 +326,13 @@ public void performComplexTransaction() {
 }
 ```
 
+## 💣 어떤 예외가 발생하면 트랜잭션이 롤백될까?
+-  기본적으로는
+   - ✅ RuntimeException (예: NullPointerException, IllegalArgumentException)
+   - ❌ CheckedException (예: IOException, SQLException)
+- 이렇게 "런타임 예외만 롤백되고, 체크 예외는 롤백 안 됨" 이게 스프링의 기본 정책.
+
+----
 
 # **@Transactional 사용 시 발생할 수 있는 또 다른 문제점**
 
