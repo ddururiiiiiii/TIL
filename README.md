@@ -84,7 +84,7 @@
 - 📌 [세마포어(Semaphore) vs 뮤텍스(Mutex)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250313%20%EC%84%B8%EB%A7%88%ED%8F%AC%EC%96%B4(Semaphore)%20vs%20%EB%AE%A4%ED%85%8D%EC%8A%A4(Mutex).md)
 - 📌 [소켓통신](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250319%20%EC%86%8C%EC%BC%93%ED%86%B5%EC%8B%A0.md)
 - 📌 [URI vs URL vs URN](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250319%20URI%20vs%20URL%20vs%20URN.md)
-
+- [가상화](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EA%B0%80%EC%83%81%ED%99%94.md)
 
 ----
 
