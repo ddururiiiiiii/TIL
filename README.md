@@ -85,6 +85,7 @@
 - 📌 [소켓통신](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250319%20%EC%86%8C%EC%BC%93%ED%86%B5%EC%8B%A0.md)
 - 📌 [URI vs URL vs URN](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250319%20URI%20vs%20URL%20vs%20URN.md)
 - [가상화](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EA%B0%80%EC%83%81%ED%99%94.md)
+- [교착상태(Deadlock)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C(Deadlock).md)
 
 ----
 
