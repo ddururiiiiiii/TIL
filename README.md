@@ -86,6 +86,8 @@
 - 📌 [URI vs URL vs URN](https://github.com/ddururiiiiiii/TIL/blob/main/CS/250319%20URI%20vs%20URL%20vs%20URN.md)
 - [가상화](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EA%B0%80%EC%83%81%ED%99%94.md)
 - [교착상태(Deadlock)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C(Deadlock).md)
+- [단일 장애 지점(Single Point of Failure, SPOF)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%8B%A8%EC%9D%BC%20%EC%9E%A5%EC%95%A0%20%EC%A7%80%EC%A0%90(SPOF).md)
+
 
 ----
 
