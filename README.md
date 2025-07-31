@@ -88,6 +88,7 @@
 - [교착상태(Deadlock)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EA%B5%90%EC%B0%A9%EC%83%81%ED%83%9C(Deadlock).md)
 - [단일 장애 지점(Single Point of Failure, SPOF)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%8B%A8%EC%9D%BC%20%EC%9E%A5%EC%95%A0%20%EC%A7%80%EC%A0%90(SPOF).md)
 - [대칭키 VS 비대칭키](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%8C%80%EC%B9%AD%ED%82%A4%2C%20%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4%20%EC%95%94%ED%98%B8%ED%99%94%20%EB%B0%A9%EC%8B%9D.md)
+- [동시성 VS 병렬성](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%8F%99%EC%8B%9C%EC%84%B1%20VS%20%EB%B3%91%EB%A0%AC%EC%84%B1.md)
 
 ----
 
