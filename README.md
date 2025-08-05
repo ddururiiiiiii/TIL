@@ -89,8 +89,8 @@
 - [단일 장애 지점(Single Point of Failure, SPOF)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%8B%A8%EC%9D%BC%20%EC%9E%A5%EC%95%A0%20%EC%A7%80%EC%A0%90(SPOF).md)
 - [대칭키 VS 비대칭키](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%8C%80%EC%B9%AD%ED%82%A4%2C%20%EB%B9%84%EB%8C%80%EC%B9%AD%ED%82%A4%20%EC%95%94%ED%98%B8%ED%99%94%20%EB%B0%A9%EC%8B%9D.md)
 - [동시성 VS 병렬성](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%8F%99%EC%8B%9C%EC%84%B1%20VS%20%EB%B3%91%EB%A0%AC%EC%84%B1.md)
-
 -[로그(Log) VS 매트릭(Metric)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%A1%9C%EA%B7%B8(log)%20VS%20%EB%A9%94%ED%8A%B8%EB%A6%AD(metric).md)
+-[로드밸런싱](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 
 ----
 
