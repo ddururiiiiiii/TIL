@@ -92,6 +92,7 @@
 - [로그(Log) VS 매트릭(Metric)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%A1%9C%EA%B7%B8(log)%20VS%20%EB%A9%94%ED%8A%B8%EB%A6%AD(metric).md)
 - [로드밸런싱](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1.md)
 - [리버스프록시 VS 포워드프록시](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%A6%AC%EB%B2%84%EC%8A%A4%20%ED%94%84%EB%A1%9D%EC%8B%9C%20vs%20%ED%8F%AC%EC%9B%8C%EB%93%9C%20%ED%94%84%EB%A1%9D%EC%8B%9C.md)
+- [멀티쓰레딩(multithreading)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%A9%80%ED%8B%B0%EC%93%B0%EB%A0%88%EB%94%A9(multithreading).md)
 
 ----
 
