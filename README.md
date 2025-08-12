@@ -97,6 +97,7 @@
 - [멀티태스킹의 한계](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%A9%80%ED%8B%B0%ED%83%9C%EC%8A%A4%ED%82%B9%EC%9D%98%20%ED%95%9C%EA%B3%84.md)
 - [무중단 배포](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%AC%B4%EC%A4%91%EB%8B%A8%20%EB%B0%B0%ED%8F%AC.md)
 - [서버리스 (Serverless)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%20(Serverless).md)
+- [스레드, 프로세스, 코어](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%8A%A4%EB%A0%88%EB%93%9C%2C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%BD%94%EC%96%B4.md)
 
 ----
 
