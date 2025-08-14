@@ -98,6 +98,7 @@
 - [무중단 배포](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EB%AC%B4%EC%A4%91%EB%8B%A8%20%EB%B0%B0%ED%8F%AC.md)
 - [서버리스 (Serverless)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4%20(Serverless).md)
 - [스레드, 프로세스, 코어](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%8A%A4%EB%A0%88%EB%93%9C%2C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%2C%20%EC%BD%94%EC%96%B4.md)
+- [스케일 아웃(Scale-Out) VS 스케일 업(Scale-Up)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EC%95%84%EC%9B%83%20VS%20%EC%8A%A4%EC%BC%80%EC%9D%BC%20%EC%97%85.md)
 
 ----
 
