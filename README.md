@@ -103,6 +103,8 @@
 - [이벤트 소싱](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%86%8C%EC%8B%B1(Event%20Sourcing).md)
 - [정적IP VS 동적IP](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%A0%95%EC%A0%81%20IP%20vs%20%EB%8F%99%EC%A0%81%20IP.md)
 - [최종적 일관성](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%B5%9C%EC%A2%85%EC%A0%81%20%EC%9D%BC%EA%B4%80%EC%84%B1(Eventually%20Consistent).md)
+- - [캐시 스탬피드(Cache Stampede)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%BA%90%EC%8B%9C%20%EC%8A%A4%ED%83%AC%ED%94%BC%EB%93%9C(Cache%20Stampede).md)
+- [캐싱전략](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%BA%90%EC%8B%B1%EC%A0%84%EB%9E%B5.md)
 
 ----
 
