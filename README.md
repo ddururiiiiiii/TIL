@@ -108,6 +108,7 @@
 - [쿠키 VS 세션](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%EC%BF%A0%ED%82%A4%20VS%20%EC%84%B8%EC%85%98.md)
 - [테스트 더블](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%8D%94%EB%B8%94.md)
 -[트랜잭셔널 아웃박스 패턴(Transaction Outbox Pattern)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%94%EB%84%90%20%EC%95%84%EC%9B%83%EB%B0%95%EC%8A%A4%20%ED%8C%A8%ED%84%B4(Transaction%20Outbox%20Pattern).md)
+- [헬스 체크(Health Check)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%ED%97%AC%EC%8A%A4%20%EC%B2%B4%ED%81%AC(Health%20Check).md)
 
 ----
 
