@@ -111,7 +111,7 @@
 - [헬스 체크(Health Check)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/%ED%97%AC%EC%8A%A4%20%EC%B2%B4%ED%81%AC(Health%20Check).md)
 -[CI/CD 파이프라인](https://github.com/ddururiiiiiii/TIL/blob/main/CS/CD%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.md)
 -[CDN](https://github.com/ddururiiiiiii/TIL/blob/main/CS/CDN.md)
-
+-[Connection Timeout, Socket Timeout, Read Timeout](https://github.com/ddururiiiiiii/TIL/blob/main/CS/Connection%20Timeout%2C%20Socket%20Timeout%2C%20Read%20Timeout.md)
 ----
 
 ### 데이터베이스
