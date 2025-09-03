@@ -112,6 +112,9 @@
 -[CI/CD 파이프라인](https://github.com/ddururiiiiiii/TIL/blob/main/CS/CD%20%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8.md)
 -[CDN](https://github.com/ddururiiiiiii/TIL/blob/main/CS/CDN.md)
 -[Connection Timeout, Socket Timeout, Read Timeout](https://github.com/ddururiiiiiii/TIL/blob/main/CS/Connection%20Timeout%2C%20Socket%20Timeout%2C%20Read%20Timeout.md)
+- [우아한 종료(Graceful Shutdown)](https://github.com/ddururiiiiiii/TIL/blob/main/CS/Graceful%20Shutdown(%EC%9A%B0%EC%95%84%ED%95%9C%20%EC%A2%85%EB%A3%8C).md)
+
+
 ----
 
 ### 데이터베이스
