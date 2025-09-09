@@ -116,6 +116,7 @@
 - [Gradle](https://github.com/ddururiiiiiii/TIL/blob/main/CS/Gradle.md)
 - [Keep Alive](https://github.com/ddururiiiiiii/TIL/blob/main/CS/Keep-Alive.md)
 - [NAT](https://github.com/ddururiiiiiii/TIL/blob/main/CS/NAT.md)
+- [PRG 패턴](https://github.com/ddururiiiiiii/TIL/blob/main/CS/PRG%20%ED%8C%A8%ED%84%B4.md)
 
 ----
 
