@@ -120,6 +120,7 @@
 - [PRG 패턴](https://github.com/ddururiiiiiii/TIL/blob/main/CS/PRG%20%ED%8C%A8%ED%84%B4.md)
 - [Redis 분산락](https://github.com/ddururiiiiiii/TIL/blob/main/CS/Redis%20%EB%B6%84%EC%82%B0%EB%9D%BD.md)
 - [Redis가 싱글스레드인 경우](https://github.com/ddururiiiiiii/TIL/blob/main/CS/Redis%EA%B0%80%20%EC%8B%B1%EA%B8%80%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%B8%20%EC%9D%B4%EC%9C%A0.md)
+- [동등성 VS 동일성](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%EB%8F%99%EC%9D%BC%EC%84%B1%20VS%20%EB%8F%99%EB%93%B1%EC%84%B1.md)
 
 ----
 
