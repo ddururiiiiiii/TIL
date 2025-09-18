@@ -41,7 +41,7 @@
 - 📌 [Thread](https://github.com/ddururiiiiiii/TIL/blob/main/Java/241227%20Thread.md)
 - [방어적 복사](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%EB%B0%A9%EC%96%B4%EC%A0%81%20%EB%B3%B5%EC%82%AC(Defensive%20Copy).md)
 - [얕은 복사 VS 깊은 복사](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC(shallow%20copy)%20VS%20%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC(deep%20copy).md)
-
+- [코드 커버리지](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%EC%BD%94%EB%93%9C%20%EC%BB%A4%EB%B2%84%EB%A6%AC%EC%A7%80.md)
 
 ----
 
