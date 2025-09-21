@@ -43,6 +43,8 @@
 - [얕은 복사 VS 깊은 복사](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC(shallow%20copy)%20VS%20%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC(deep%20copy).md)
 - [코드 커버리지](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%EC%BD%94%EB%93%9C%20%EC%BB%A4%EB%B2%84%EB%A6%AC%EC%A7%80.md)
 - [함수형 프로그래밍](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
+- [CQRS 패턴](https://github.com/ddururiiiiiii/TIL/blob/main/Java/CQRS%20%ED%8C%A8%ED%84%B4.md)
+
 
 ----
 
