@@ -45,6 +45,7 @@
 - [함수형 프로그래밍](https://github.com/ddururiiiiiii/TIL/blob/main/Java/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [CQRS 패턴](https://github.com/ddururiiiiiii/TIL/blob/main/Java/CQRS%20%ED%8C%A8%ED%84%B4.md)
 - [equals VS hashCode](https://github.com/ddururiiiiiii/TIL/blob/main/Java/equals%EC%99%80%20hashCode.md)
+- [JCF 자료구조의 초기용량을 지정할 때 장점](https://github.com/ddururiiiiiii/TIL/blob/main/Java/JCF%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EC%B4%88%EA%B8%B0%EC%9A%A9%EB%9F%89%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%A0%20%EB%95%8C%20%EC%9E%A5%EC%A0%90.md)
 
 ----
 
