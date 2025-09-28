@@ -48,6 +48,8 @@
 - [JCF 자료구조의 초기용량을 지정할 때 장점](https://github.com/ddururiiiiiii/TIL/blob/main/Java/JCF%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%9D%98%20%EC%B4%88%EA%B8%B0%EC%9A%A9%EB%9F%89%EC%9D%84%20%EC%A7%80%EC%A0%95%ED%95%A0%20%EB%95%8C%20%EC%9E%A5%EC%A0%90.md)
 - [Record - DTO](https://github.com/ddururiiiiiii/TIL/blob/main/Java/Record%20-%20DTO.md)
 - [Statement VS PreparedStatement](https://github.com/ddururiiiiiii/TIL/blob/main/Java/Statement%20VS%20PreparedStatement.md)
+- [String 불변/가변](https://github.com/ddururiiiiiii/TIL/blob/main/Java/String.md)
+
 
 
 ----
