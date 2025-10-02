@@ -75,6 +75,8 @@
 - 📌✅ [Entity, EntitiyManager, EntityManager, EntityManagerFacory, 생명주기](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250123%20Entity%2C%20EntityManager%2C%20EntityManagerFactory%2C%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
 - 📌✅ [영속성 컨택스트 (1차캐시, 2차캐시, Dirty Checking)](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250124%20%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%83%9D%EC%8A%A4%ED%8A%B8%20(1%EC%B0%A8%EC%BA%90%EC%8B%9C%2C%202%EC%B0%A8%EC%BA%90%EC%8B%9C%2C%20Dirty%20Checking).md)
 - 📌✅ [cascade, orphanRemoval, 연관관계(문제점), Open Session in View](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250221%20cascade%2C%20orphanRemoval%2C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84(%EB%AC%B8%EC%A0%9C%EC%A0%90)%2C%20Open%20Session%20in%20View.md)
+- [ddl auto 옵션](https://github.com/ddururiiiiiii/TIL/tree/main/JPA)
+
 
 ----
 
