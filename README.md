@@ -77,7 +77,7 @@
 - 📌✅ [cascade, orphanRemoval, 연관관계(문제점), Open Session in View](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/250221%20cascade%2C%20orphanRemoval%2C%20%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84(%EB%AC%B8%EC%A0%9C%EC%A0%90)%2C%20Open%20Session%20in%20View.md)
 - [ddl auto 옵션](https://github.com/ddururiiiiiii/TIL/tree/main/JPA)
 - [JPA Fetch Join과 페이징을 함께 사용할 때 주의점](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/JPA%20Fetch%20Join%EA%B3%BC%20%ED%8E%98%EC%9D%B4%EC%A7%95%EC%9D%84%20%ED%95%A8%EA%BB%98%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EC%A3%BC%EC%9D%98%EC%A0%90.md)
-
+- [JPA ID 생성 전략](https://github.com/ddururiiiiiii/TIL/blob/main/JPA/JPA%20ID%20%EC%83%9D%EC%84%B1%20%EC%A0%84%EB%9E%B5.md)
 
 ----
 
