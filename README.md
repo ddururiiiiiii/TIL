@@ -66,7 +66,7 @@
 - 📌 [빈 생명주기](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250110%20%EB%B9%88%20%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
 - 📌 [빈 스코프](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250120%20%EB%B9%88%20%EC%8A%A4%EC%BD%94%ED%94%84.md)
 - 📌 [@requestParam VS @ReqeustBody](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/250116%20%40RequestBody%2C%20%40RequestParam%2C%20%40ModelAttribute.md)
-
+- [@ExceptionHandler](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%20%40ExceptionHandler%20%2C%20%40ControllerAdvice.md)
 
 ----
 
