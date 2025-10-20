@@ -69,6 +69,7 @@
 - [@ExceptionHandler](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%20%40ExceptionHandler%20%2C%20%40ControllerAdvice.md)
 - [Spring MVC 실행 흐름](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%20Spring%20MVC%20%EC%8B%A4%ED%96%89%20%ED%9D%90%EB%A6%84.md)
 - [@Controller VS @Restcontroller](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%40Controller%20VS%20%40Restcontroller.md)
+- [@ResponseBody<T>](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%40ResponseBody(or%20ResponseEntity%3CT%3E).md)
 
 ----
 
