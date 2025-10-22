@@ -71,6 +71,7 @@
 - [@Controller VS @Restcontroller](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%40Controller%20VS%20%40Restcontroller.md)
 - [@ResponseBody<T>](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%40ResponseBody(or%20ResponseEntity%3CT%3E).md)
 - [[@Value VS @ConfigurationProperties] 추가](https://github.com/ddururiiiiiii/TIL/tree/main/Spring)
+- [Tomcat](https://github.com/ddururiiiiiii/TIL/blob/main/Spring/%ED%86%B0%EC%BA%A3(Tomcat).md)
 
 
 ----
