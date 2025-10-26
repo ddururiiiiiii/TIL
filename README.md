@@ -170,3 +170,4 @@
 - 📌 [BLOB vs TEXT vs CLOB](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250228%20BLOB%20VS%20TEXT%20VS%20CLOB.md)
 - 📌 [B-Tree vs B+Tree](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/250304%20B-Tree%20VS%20B%2BTree.md)
 - [열 기반 DB와 행 기반 DB](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%97%B4%20%EA%B8%B0%EB%B0%98%20DB%EC%99%80%20%ED%96%89%20%EA%B8%B0%EB%B0%98%20DB.md)
+- [DB 커넥션 풀(Connection Pool)](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%EC%BB%A4%EB%84%A5%EC%85%98%20%ED%92%80(Connection%20Pool).md)
