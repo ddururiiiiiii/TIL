@@ -174,3 +174,4 @@
 - [페이징 쿼리](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/%ED%8E%98%EC%9D%B4%EC%A7%95%20%EC%BF%BC%EB%A6%AC.md)
 - [DB 동시성 제어 - MVCC, Lock](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/DB%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4%20-%20MVCC%2C%20Lock.md)
 - [MySQL InnoDB 갭락, 넥스트키 락](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/MySQL%20InnoDB%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EA%B0%AD%EB%9D%BD%2C%20%EB%84%A5%EC%8A%A4%ED%8A%B8%ED%82%A4%20%EB%9D%BD.md)
+- [NOT IN 쿼리를 사용할 때 발생할 수 있는 문제점](https://github.com/ddururiiiiiii/TIL/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/NOT%20IN%20%EC%BF%BC%EB%A6%AC%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EB%B0%9C%EC%83%9D%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)
